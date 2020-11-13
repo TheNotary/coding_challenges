@@ -1,0 +1,13 @@
+XX1X2XX
+-------
+-X0X3X-
+-9XX--n
+-X8XXX-
+-------
+XX7X5XX
+
+
+algo:
+  - Create a branching of paths based on a point
+  - Determine which of those paths are walkable ground and add them
+  - 
